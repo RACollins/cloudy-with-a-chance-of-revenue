@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+cdk.out/
+infra/cdk/.venv/
+.cache/
